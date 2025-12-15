@@ -13,7 +13,8 @@
 - **infra-config**  
   Nginx 및 Docker Compose 기반 인프라 설정  
   개발(dev) / 운영(prod) 환경별 구성 파일을 분리하여 관리
-  
+
+---  
 
 ### Server
 - **account-service**  
