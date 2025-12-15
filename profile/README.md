@@ -21,29 +21,29 @@
 ---
 
 ### DevOps
-- **infra-config**
+- [**infra-config**](https://github.com/siwounhae/infra-config)
   
   Nginx 및 Docker Compose 기반 인프라 설정, dev/prod 환경별 구성 파일을 분리하여 관리
 
 ---  
 
 ### Server
-- **account-service**
+- [**account-service**](https://github.com/siwounhae/account-service)
   
   사용자 계정, 프로필, 인증·인가(Auth) 관련 기능을 담당하는 서버
 
-- **spa-service**
+- [**spa-service**](https://github.com/siwounhae/spa-service)
   
   찜질방 도메인 서비스로, 리뷰 및 관련 비즈니스 로직을 처리
 
-- **common-lib**
+- [**common-lib**](https://github.com/siwounhae/common-lib)
   
   서버 전반에서 공통으로 사용하는 유틸, 에러, 타입, 헬퍼 라이브러리
 
 ---
 
 ### Client
-- **app-mobile**
+- [**app-mobile**](https://github.com/siwounhae/app-mobile)
   
   React Native 기반의 크로스 플랫폼 모바일 애플리케이션
 
