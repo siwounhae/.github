@@ -37,6 +37,10 @@
   
   찜질방 도메인 서비스로, 리뷰 및 관련 비즈니스 로직을 처리
 
+- [**file-service**](https://github.com/siwounhae/file-service)
+
+  파일 중앙 관리 (aws s3)  
+
 - [**common-lib**](https://github.com/siwounhae/common-lib)
   
   서버 전반에서 공통으로 사용하는 유틸, 에러, 타입, 헬퍼 라이브러리
